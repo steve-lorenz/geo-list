@@ -1,0 +1,12 @@
+{
+  "name": "geo-list",
+  "displayName": "geo-list",
+  "expo": {
+    "name": "geo-list",
+    "slug": "geo-list",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
